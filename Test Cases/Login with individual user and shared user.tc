@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with individual user and shared user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef26bde1-0322-4ec9-946c-2cba989f0f13</testCaseGuid>
+</TestCaseEntity>
